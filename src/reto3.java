@@ -12,7 +12,7 @@ public class reto3 {
             System.out.println(" Ganaste Elejiste " +jugador+ " Felicitaciones ");
          }
         else if(jugador!=juego){
-            System.out.println("Perdiste " +jugador+ " Sigue intentando ");
+            System.out.println("Perdiste " +jugador+ " Sigue Intentando ");
          }
          else{
             System.out.println(" Elige depende la seguencia ");
