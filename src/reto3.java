@@ -10,10 +10,10 @@ public class reto3 {
         jugador=leer.nextInt();
         if (jugador==juego){
             System.out.println(" Ganaste Elejiste " +jugador+ " Felicitaciones ");
-         }
+        }
         else if(jugador!=juego){
             System.out.println("Perdiste " +jugador+ " Sigue intentando ");
-         }
+        }
          else{
             System.out.println(" Elige depende la seguencia ");
          }
